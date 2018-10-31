@@ -1,0 +1,5 @@
+spring:
+   #时间+8小时
+   jackson:
+      date-format: java.text.SimpleDateFormat    #或正则yyyy-MM-dd HH:mm:ss
+      time-zone: GMT+8    #或UTC
